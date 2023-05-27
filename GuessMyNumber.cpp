@@ -6,7 +6,7 @@
 
 namespace settings {
 	const int lowRangeVal = 1, 
-			  highRangeVal = 100; //low and high value of number range 
+			  highRangeVal = 100; //low and high value of range 
 }
 
 /// <summary>
