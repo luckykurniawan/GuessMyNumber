@@ -1,5 +1,5 @@
 # GuessMyNumber
-Number guessing game implemented as console application using C++.
+Number guessing game implemented as console application.
 
 Program will set a random number from given range and  
 give feedback toward player's guess  
